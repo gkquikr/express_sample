@@ -1,5 +1,5 @@
 # express_sample
-Sample Exrepss JS project with Jade JS template
+Sample Exrepss JS project with Jade JS template engine
 
 This project uses - Jade template engine
 
